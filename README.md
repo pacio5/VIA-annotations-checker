@@ -1,7 +1,7 @@
 # VIA annotations checker
 
 The creation of accurate annotations is of paramount importance for the efficacy of machine learning algorithms that rely on them. However, it is relatively simple to encounter errors in annotations that appear to be correct but are, in fact, formally flawed.
-This project enables the user to ascertain the number of annotations associated with each image in the EIA or COCO project. Additionally, it facilitates a comparison between the two versions, thereby facilitating the identification of any errors.
+This project enables the user to ascertain the number of annotations associated with each image in the VIA or COCO project. Additionally, it facilitates a comparison between the two versions, thereby facilitating the identification of any errors.
 
 ## Structure of the project
 The project is structured as follows:
